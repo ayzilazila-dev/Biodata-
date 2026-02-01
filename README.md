@@ -1,1 +1,1 @@
-Praktikum Struktur Data TI B 2026
+Repository Pengumpulan Tugas Algoritma Pemrograman TI-B
